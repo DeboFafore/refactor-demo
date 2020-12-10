@@ -1,62 +1,30 @@
 # Project Title
 
-One Paragraph of project description goes here
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project is a demonstration of a website refactor which adds accessibility features and improves code readability by applying HTML semantics and consolidating CSS styling.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
+Other than a web brower no software installation is needed.
 
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
 * [See Live Site](#)
 
-
 ## Authors
 
-* **YOUR NAME** 
+ Coleman Buffa
 
-- [Link to Portfolio Site](#)
-- [Link to Github](https://github.com/)
-- [Link to LinkedIn](https://www.linkedin.com/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- [Link to Github](https://github.com/coleman-buffa)
+- [Link to LinkedIn](https://www.linkedin.com/in/coleman-buffa-0a12a5201/)
 
 ## License
 
-This project is licensed under the MIT License 
+This project is free to use.
 
 ## Acknowledgments
 
