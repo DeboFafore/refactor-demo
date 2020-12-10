@@ -1,19 +1,30 @@
 # Project Title
 
-This project is a demonstration of a website refactor which adds accessibility features and improves code readability by applying HTML semantics and consolidating CSS styling.
+This project is a demonstration of a website refactor which improved accessibility features and code readability. This was accomplished by:
+
+* Adapting non-descriptive div elements into semantic HTML elements (e.g. section);
+* Creating alt text for all site images;
+* Consolidating pre-existing CSS code into robust general purpose classes; and
+* Restructuring CSS code to reflect site layout;
 
 ### Prerequisites
 
 Other than a web brower no software installation is needed.
 
+---
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [https://coleman-buffa.github.io/refactor-demo/](#)
+
+---
 
 ## Authors
 
@@ -25,9 +36,3 @@ Other than a web brower no software installation is needed.
 ## License
 
 This project is free to use.
-
-## Acknowledgments
-
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
