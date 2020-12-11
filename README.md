@@ -22,7 +22,7 @@ Other than a web brower no software installation is needed.
 
 ## Deployed Link
 
-* [https://coleman-buffa.github.io/refactor-demo/](#)
+https://coleman-buffa.github.io/refactor-demo/
 
 ---
 
