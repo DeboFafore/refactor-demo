@@ -75,19 +75,3 @@ Other than a web brower no software installation is needed.
 
 ---
 
-## Built With
-
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Git](https://git-scm.com/)
-* [GitHub](https://github.com/)
-
-## Deployed Link
-
-
-
----
-
-
-
- 
