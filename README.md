@@ -84,16 +84,10 @@ Other than a web brower no software installation is needed.
 
 ## Deployed Link
 
-https://coleman-buffa.github.io/refactor-demo/
+
 
 ---
 
-## Authors
 
- Coleman Buffa
 
-- [Link to Github](https://github.com/coleman-buffa)
-- [Link to LinkedIn](https://www.linkedin.com/in/coleman-buffa-0a12a5201/)
-
-## Acknowledgements
-UC Berkeley Extension
+ 
